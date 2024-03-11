@@ -1,0 +1,24 @@
+body {
+    color: rgb(0, 0, 0);
+    background: ;"./Logo 1.png"
+    font-family: Arial, Helvetica, sans-serif;
+    }
+li img {
+    background-size: contain;   
+    width: 250%;
+    height: 250px;
+    text-align: center; 
+    border: 2px solid pink;
+    
+  
+}
+li{
+    display: flex;
+    color: rgb(5, 4, 4);
+    text-decoration: none;
+    list-style: none;   
+    justify-content: space-between;
+}
+header{
+    text-align: center;
+}
